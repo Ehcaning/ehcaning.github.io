@@ -1,0 +1,43 @@
+#-------------------------------
+# General Site Settings
+title: Ehsan Seyedi
+logo: fav.png
+description: My Personal Blog
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Ehsan Seyedi
+  image: Ehsan-removebg-800_optimized.png
+  say-hello: Hello, I’m <strong>Ehsna Seyedi</strong>
+  bio: <strong>Senior Software Engineer</strong>
+
+
+#-------------------------------
+# Contact links
+twitter: https://twitter.com/Ehcaning
+github: https://github.com/Ehcaning
+instagram: https://www.instagram.com/ehcaning/
+linkedin: https://www.linkedin.com/in/ehcan/
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: ehcaning # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
